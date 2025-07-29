@@ -116,3 +116,7 @@ Product B: 60 units
 Maximum Profit: $2600
 
 This project highlights my capability to apply optimization techniques in data-driven decision-making, showcasing both technical and analytical skills.
+
+Final output :
+
+[task4 pdf.pdf](https://github.com/user-attachments/files/21484017/task4.pdf.pdf)
